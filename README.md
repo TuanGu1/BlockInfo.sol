@@ -12,3 +12,4 @@ contract BlockInfo {
         return block.number;
     }
 }
+Update logic for better performance
