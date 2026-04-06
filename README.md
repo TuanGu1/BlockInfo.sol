@@ -13,3 +13,4 @@ contract BlockInfo {
     }
 }
 Update logic for better performance
+Refactor code for readability
