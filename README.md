@@ -17,3 +17,4 @@ Refactor code for readability
 Add new feature
 Remove unused code
 Improve error handling
+Add input checks
